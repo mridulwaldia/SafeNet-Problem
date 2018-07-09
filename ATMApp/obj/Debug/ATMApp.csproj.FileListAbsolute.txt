@@ -1,0 +1,7 @@
+C:\Users\mridu\source\repos\ATMApp\ATMApp\obj\Debug\ATMApp.csprojAssemblyReference.cache
+C:\Users\mridu\source\repos\ATMApp\ATMApp\obj\Debug\ATMApp.csproj.CoreCompileInputs.cache
+C:\Users\mridu\source\repos\ATMApp\ATMApp\bin\Debug\ATMApp.exe.config
+C:\Users\mridu\source\repos\ATMApp\ATMApp\bin\Debug\ATMApp.exe
+C:\Users\mridu\source\repos\ATMApp\ATMApp\bin\Debug\ATMApp.pdb
+C:\Users\mridu\source\repos\ATMApp\ATMApp\obj\Debug\ATMApp.exe
+C:\Users\mridu\source\repos\ATMApp\ATMApp\obj\Debug\ATMApp.pdb
